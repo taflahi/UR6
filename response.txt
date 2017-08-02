@@ -1,0 +1,11 @@
+response:
+
+[
+	{
+		"item" : "item_id",
+		"score" : "score",
+		"view" : [
+			"image:", "url:", "name:", "raw_price"
+		]
+	}
+]
